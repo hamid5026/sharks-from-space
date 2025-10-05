@@ -8,7 +8,7 @@ data/ # samples only (full data via LFS/Releases/external)
 
 figures/ # exported plots/maps
 
-docs/ # project page documentation includes nasa_presentation, video and speech presentation.
+docs/ # project page documentation includes nasa_presentation, video and speech_presentation.
 
 resources/ # references papers
 
