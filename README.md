@@ -1,2 +1,3 @@
 # sharks-from-space
 “From the deep ocean to outer space” a project linking sensor tags with satellite data to reveal shark behavior, ecosystem dynamics, and new pathways for sustainable ocean stewardship.
+We develop an underwater shark tagging + satellite monitoring system that fuses in-situ sensing with remote ocean data. The tag emphasizes low-power sensing, environmental adaptability, and intelligent behavior recognition. Combined with **satellite-derived indices** including phytoplankton concentration, sea surface temperature (SST), and eddy dynamics, we map habitats and infer feeding/migration patterns. This local+global fusion enables predictive modeling for conservation, safer fishing, and sustainable resource management.
