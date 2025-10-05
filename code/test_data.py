@@ -8,8 +8,8 @@ import xarray as xr
 
 # print("\r\nOK with:", sys.executable)
 
-# user: h_moghadas5026
-#pass: hm289686_NASA
+# user: 
+#pass: 
 # --- CONFIG ---
 AOI_BBOX = (-30.0, 30.0, -10.0, 40.0)     # (min_lon, min_lat, max_lon, max_lat) – change to your region
 auth = earthaccess.login(persist=True)
