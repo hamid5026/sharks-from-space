@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/ .env/ .mypy_cache/
+.ipynb_checkpoints/
+# IDE
+.vscode/
+# Data artifacts
+data/*
+!data/README.md
+*.npz
+*.nc
+*.tif
+*.csv
